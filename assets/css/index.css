@@ -616,6 +616,8 @@ nav .hover-line ul.dropdown-menu li a:hover {
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
+  -webkit-animation: intro 2s infinite;
+          animation: intro 2s infinite;
 }
 
 @media screen and (max-width: 768px) {
@@ -656,6 +658,8 @@ nav .hover-line ul.dropdown-menu li a:hover {
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
+  -webkit-animation: intro 2s infinite;
+          animation: intro 2s infinite;
 }
 
 @media screen and (max-width: 768px) {
@@ -697,6 +701,8 @@ nav .hover-line ul.dropdown-menu li a:hover {
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
+  -webkit-animation: intro 2s infinite;
+          animation: intro 2s infinite;
 }
 
 @media screen and (max-width: 768px) {
