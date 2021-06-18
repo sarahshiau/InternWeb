@@ -201,6 +201,10 @@ nav .logo-img {
   margin: 10px 0px 0px 50px;
 }
 
+nav .material-icons{
+  color: #F0831D;
+}
+
 nav li {
   margin-right: 100px;
   padding: 8px;
