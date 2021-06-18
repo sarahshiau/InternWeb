@@ -48,6 +48,9 @@ nav {
 nav .logo-img {
   margin: 20px 0px 0px 50px;
 }
+nav .material-icons{
+  color: #F0831D;
+}
 
 nav li {
   margin-right: 100px;
